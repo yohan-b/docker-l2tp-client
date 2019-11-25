@@ -9,4 +9,4 @@ nodefaultroute
 usepeerdns
 debug
 connect-delay 5000
-logfile /dev/stdout
+#logfile /tmp/pppd
