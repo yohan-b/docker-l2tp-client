@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bullseye
 MAINTAINER yohan <783b8c87@scimetis.net>
 ENV DEBIAN_FRONTEND noninteractive
 ENV TZ Europe/Paris
